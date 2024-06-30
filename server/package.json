@@ -1,0 +1,11 @@
+{
+  "name": "clickerer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Bryant",
+  "license": "ISC",
+  "description": "Basic clicker game to play when you're a bit bored."
+}
